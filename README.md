@@ -9,7 +9,6 @@ I created a weather app, when you enter a city name in the search box and click 
 * JAVASCRIPT
 
 # Screenshots 📺
-
 ![image](https://user-images.githubusercontent.com/61913031/111883570-7aadce80-89bc-11eb-8f2c-5697ac2d3112.png)
 ![image](https://user-images.githubusercontent.com/61913031/111883681-2eaf5980-89bd-11eb-842d-1110febb99d5.png)
 
