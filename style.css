@@ -86,3 +86,19 @@ body{
     display: inline-block;
     min-width: 180px;
 }
+
+@media(max-width: 400px){
+    .wrapper{
+        flex-wrap: wrap;
+        margin-bottom: 50px;
+    }
+    .city{
+        width: 100%;
+        margin-bottom: 20px;
+    }
+    .search{
+        width: 300px;
+        margin: 0 auto 30px auto;
+    }
+
+}
