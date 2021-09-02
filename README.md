@@ -10,11 +10,11 @@ I created a weather app, when you enter a city name in the search box and click 
 
 # Screenshots 📺
 ![image](https://user-images.githubusercontent.com/61913031/111883570-7aadce80-89bc-11eb-8f2c-5697ac2d3112.png)
-![image](https://user-images.githubusercontent.com/61913031/111883681-2eaf5980-89bd-11eb-842d-1110febb99d5.png)
+![image](https://user-images.githubusercontent.com/61913031/131842383-8ef0b770-7a21-4add-b375-5ef68aa76a51.png)
 
 # Issues 🔍
  
  If you have any issues, please let me know on mateusz.grzybowski98@gmail.com
  
   # Live 📍
-https://mattgri.github.io/Weather-App/
+https://quizzical-ardinghelli-cfe5a5.netlify.app/
