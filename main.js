@@ -17,7 +17,7 @@ const createLi = (text) => {
 const showTemperature = () => {
     ul.innerHTML = '';
 
-    fetch(`https://api.openweathermap.org/data/2.5/weather?q=${cityValue.value !== '' ? cityValue.value : currentCity}&appid=e30e12a5cdb9435f69ae6cdb4c1559d2&units=metric`)
+    fetch(`https://api.openweathermap.org/data/2.5/weather?q=${cityValue.value !== '' ? cityValue.value : currentCity}&appid=10f4ee482085d14238a8759c93f4ea3c&units=metric`)
     .then(response => response.json())
     .then(response => {
         if(response.cod === 200){
