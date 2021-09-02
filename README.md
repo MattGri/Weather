@@ -17,4 +17,4 @@ I created a weather app, when you enter a city name in the search box and click 
  If you have any issues, please let me know on mateusz.grzybowski98@gmail.com
  
   # Live 📍
-https://quizzical-ardinghelli-cfe5a5.netlify.app/
+https://flamboyant-mirzakhani-30b66b.netlify.app/
