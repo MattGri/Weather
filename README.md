@@ -8,6 +8,10 @@ I created a weather app, when you enter a city name in the search box and click 
 
 * JAVASCRIPT
 
+# Installation 💾
+
+`git clone https://github.com/MattGri/Weather.git`
+
 # Screenshots 📺
 ![image](https://user-images.githubusercontent.com/61913031/111883570-7aadce80-89bc-11eb-8f2c-5697ac2d3112.png)
 ![image](https://user-images.githubusercontent.com/61913031/131842383-8ef0b770-7a21-4add-b375-5ef68aa76a51.png)
